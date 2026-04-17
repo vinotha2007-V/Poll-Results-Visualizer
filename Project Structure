@@ -1,0 +1,26 @@
+Poll-Results-Visualizer/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── preprocessing.ipynb
+│
+├── src/
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── analysis.py
+│   └── visualization.py
+│
+├── app/
+│   └── app.py
+│
+├── outputs/
+│   ├── charts/
+│   └── reports/
+│
+├── main.py
+├── requirements.txt
+└── README.md
