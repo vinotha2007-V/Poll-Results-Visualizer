@@ -1,0 +1,4 @@
+git clone https://github.com/yourusername/Poll-Results-Visualizer.git
+cd Poll-Results-Visualizer
+
+pip install -r requirements.txt
